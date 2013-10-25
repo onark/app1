@@ -4,5 +4,6 @@
     <string name="app_name">SocialApp</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Yo hackers!</string>
+    <string name="swipe_arrow">&lt;-----swipe from left</string>
 
 </resources>

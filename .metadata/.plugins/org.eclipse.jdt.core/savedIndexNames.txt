@@ -7,7 +7,6 @@ INDEX VERSION 1.126+C:\Users\Onur\workspace\.metadata\.plugins\org.eclipse.jdt.c
 2338551526.index
 2335366043.index
 241717532.index
-1288908933.index
 3881952578.index
 1509172498.index
 3969947954.index
